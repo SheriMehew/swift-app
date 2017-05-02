@@ -3,7 +3,7 @@
 //  swift app
 //
 //  Created by Lawrence Hoover on 8/22/16.
-//  Copyright © 2016 SheriClassroom. All rights reserved.
+//  Copyright © 2016 SheriClassroom. All rights reserved.......
 //
 
 import UIKit
